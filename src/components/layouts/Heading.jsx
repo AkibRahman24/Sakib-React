@@ -1,7 +1,7 @@
 import React from 'react'
 import Container from '../Container'
 import Images from '../Images'
-import Logo from '/Creative It projects/sakib-react/src/assets/logo.png'
+import Logo from '/src/assets/logo.png'
 import Flex from '../Flex'
 import Button from '../Button'
 import { CiMail } from "react-icons/ci";

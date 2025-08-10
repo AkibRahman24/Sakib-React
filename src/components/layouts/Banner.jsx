@@ -2,7 +2,7 @@ import React from 'react'
 import Container from '../Container'
 import Flex from '../Flex'
 import Images from '../Images'
-import avatar from '/Creative It projects/sakib-react/src/assets/banner.png'
+import avatar from '/src/assets/banner.png'
 import Button from '../Button'
 import { CiMail } from "react-icons/ci";
 import { FaCloudDownloadAlt } from "react-icons/fa";
